@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.titulo{
+
+    font-size: 5em;
+    font-family: cursive;
+}
+.texto{
+    font-size: 3em;
+    font-family: monospace;
+}

@@ -1,0 +1,19 @@
+.cont{
+    max-width: 50%;
+    background-color: cornflowerblue;
+    border-radius: 15px;
+}
+.Nombre{
+    font-size: 3em;
+    font-family: monospace;
+}
+.Info{
+    font-size: 2em;
+    font-family: monospace;
+}
+.button{
+    background-color: rgb(59, 59, 59);
+    color: cornflowerblue;
+    font-size: 1.5em;
+    font-family: monospace;
+}

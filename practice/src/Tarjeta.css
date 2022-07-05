@@ -1,0 +1,13 @@
+.contenedor{
+    max-width: 25%;
+    background-color: cornflowerblue;
+    border-radius: 15px;
+}
+.nombre{
+    font-size: 3em;
+    font-family: monospace;
+}
+.info{
+    font-size: 2em;
+    font-family: monospace;
+}
